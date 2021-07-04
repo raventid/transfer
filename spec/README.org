@@ -1,5 +1,7 @@
 #+TITLE: Readme
 
 * Original idea
+Using WAL as a way to replicate changes beetween two DBs.
+
 * Specification tool
 * Versions
